@@ -70,6 +70,13 @@ I'm building and sharing one JavaScript project every day! 🚀
 
 ---
 
+
+## 🧩 Part of
+
+**[30 Days of JavaScript Challenge](#)**
+Follow the journey: [@qasimrokeeb](https://x.com/qasimrokeeb)
+Hashtags: `#30DaysOfJS` `#JavaScript` `#FrontendDev` `Build In Public`
+
 ## ⚠️ Note
 
 This project uses the native `audio` element and avoids unsafe practices like `eval()`.  
